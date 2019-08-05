@@ -1,3 +1,19 @@
+# Please go to the newly formed Organization where the project will be continued
+# https://github.com/official-antistasi-community/A3-AntiStasi-1.9
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 # The project is continued again
 
 The AntiStasi Community has decided to continue this version next to the the further development of version 1.4.0.2 at https://github.com/Bob-Murphy/A3-Antistasi.
